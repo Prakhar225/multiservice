@@ -1,0 +1,12 @@
+[submodule "discovery-server"]
+	path = discovery-server
+	url = git@github.com:Prakhar225/discovery-server.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:Prakhar225/inventory-service.git
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:Prakhar225/order-service.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:Prakhar225/product-service.git
