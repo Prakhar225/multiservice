@@ -10,3 +10,6 @@
 [submodule "product-service"]
 	path = product-service
 	url = git@github.com:Prakhar225/product-service.git
+[submodule "spring-api-gateway"]
+	path = spring-api-gateway
+	url = git@github.com:Prakhar225/spring-api-gateway.git
